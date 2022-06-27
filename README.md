@@ -66,7 +66,7 @@ python manage.py migrate
 
 ## views
 
-Avant de d'entamer cette étape, sur stripe.com , vous devez créer un produit et lui donner un prix. Celui-ci doit être répertorié ou instancié dans la partie admin de django.
+Avant d'entamer cette étape, sur stripe.com , vous devez créer un produit et lui donner un prix. Celui-ci doit être répertorié ou instancié dans la partie admin de django.
 N'oublier pas donc de noter stripe_product_id et stripe_price_id du produit pour cela!
 
 ![img6](./images/stripe1.png)
